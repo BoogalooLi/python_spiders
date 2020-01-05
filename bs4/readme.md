@@ -1,6 +1,6 @@
 # Usage
 >from bs4 import BeautifulSoup
-# Tutorials for XPath
+# Tutorials for BeautifulSoup
 You can click the super links below to read tutorials online.
 * [Chinese Version](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
 * [English Version](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
