@@ -16,7 +16,7 @@ if res.status_code == 200:
         fp.write(res.text)
 
 # 解析数据
-html = etree.parse('./yq.html', etree.HTMLParser())
+html = etree.parse('./yz.html', etree.HTMLParser())
 
 # 提取数据：文章标题，地址url，作者
 author = html.xpath('//strong/a/text()')
