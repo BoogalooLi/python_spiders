@@ -1,5 +1,7 @@
 # Basic Tools in Web Spiders in Python3
 There are underlying .py and readme files in each directories. 
+
+If time available, I will introduce some advanced tools in web spiders.
 ## Basic Tools
 ### [requests](https://pypi.org/project/requests/)
 
