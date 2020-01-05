@@ -18,5 +18,7 @@ Some basic methods in process and thread.
 There is a good source for understanding process and thread. You can click the super link below to read it online.
 
 [Process & Thread](http://www.qnx.com/developers/docs/6.4.1/neutrino/getting_started/s1_procs.html)
+### pools
+Some basic usages in process and thread pools.
 ## translator
 An example of using [有道翻译](http://fanyi.youdao.com/) and web spider. If you like, you can make a app with the core codes in this file.
