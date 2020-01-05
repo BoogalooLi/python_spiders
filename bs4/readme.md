@@ -8,7 +8,7 @@ You can click the super links below to read tutorials online.
 ## bs4_basics
 Some basic usages about BeautifulSoup.
 
-## XPath_combat & bs4_combat 2.0
+## bs4_combat & bs4_combat 2.0
 A complex example of BeautifulSoup.
 
 The difference is that defining a class in 2.0 version.
