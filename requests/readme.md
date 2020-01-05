@@ -6,7 +6,7 @@ You can click the super links below to read tutorials online.
 * [English Version](https://2.python-requests.org/en/master/)
 # Introduction
 ## requests_basics
-Some basics in requests, including get() method
+Some basics in requests, including get() method.
 ## requests_post
 An example of post() method.
 ## requests_session
